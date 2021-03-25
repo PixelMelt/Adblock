@@ -16,4 +16,4 @@ spotify.com##.ads-container
 @@||cdn.optimizely.com/js/*.js$domain=spotify.com
 @@||newrelic.com/nr-*.min.js$domain=play.spotify.com
 open.spotify.com##.a81b8921c08df1bc32cd0c686fa8951a-scss
-#End Spotify web player adblock
+#Spotify web player adblock
