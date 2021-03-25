@@ -1,0 +1,16 @@
+open.spotify.com##._5c12c73a4f38b98340ea33803209fdc8-scss._4dfd6d092d9e182093e453606400f1cc-scss > ._47872eede19af06725157ba21fea3516-scss.link-subtle
+open.spotify.com##._186766435454b6e18fec29440fbb9fc4-scss._110dbc41d89af63f97cdd8b7cd7fea47-scss._3f37264be67c8f40fa9f76449afdb4bd-scss
+||d7zatysqm84hv.cloudfront.net/mp3-ad/$media,redirect=noopmp3-0.1s,domain=open.spotify.com
+||akamaized.net/audio/*$media,redirect=noopmp3-0.1s,domain=open.spotify.com
+||audio-fa.scdn.co/audio/*$media,redirect=noopmp3-0.1s,domain=open.spotify.com
+||scdn.co/audio/$media,domain=open.spotify.com
+spotify.com##.ads-container
+@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
+@@||edgekey.net^*/advertisement.js$domain=play.spotify.com
+||pixel-static.spotify.com^
+||pixel.spotify.com^
+||spotify.com^*/metric
+@@||bam.nr-data.net^$script,domain=play.spotify.com
+@@||cdn.optimizely.com/js/*.js$domain=spotify.com
+@@||newrelic.com/nr-*.min.js$domain=play.spotify.com
+open.spotify.com##.a81b8921c08df1bc32cd0c686fa8951a-scss
