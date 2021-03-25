@@ -1,2 +1,2 @@
 # Adblock
-Adblock for a number of domains
+Adblock for a number of websites
