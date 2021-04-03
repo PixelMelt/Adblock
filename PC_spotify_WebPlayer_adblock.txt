@@ -1,3 +1,14 @@
+Install the extention uBlock Orgin on you favorite browser
+
+Chrome = https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+Firefox = https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+Edge = https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
+Opera = https://addons.opera.com/en/extensions/details/ublock/
+
+
+Add the following to the "my filters" tab in uBlock Orgins settings
+
+
 #Working as of 3/25/2021
 #Spotify web player adblock
 open.spotify.com##._5c12c73a4f38b98340ea33803209fdc8-scss._4dfd6d092d9e182093e453606400f1cc-scss > ._47872eede19af06725157ba21fea3516-scss.link-subtle
