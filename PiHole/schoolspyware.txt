@@ -21,4 +21,3 @@ countvoncount.goguardian.com
 clients4.google.com
 goguardian.com
 beacons4.gvt2.com
-chrome.filter.bark.us
