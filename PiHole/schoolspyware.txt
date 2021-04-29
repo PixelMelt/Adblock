@@ -22,3 +22,4 @@ clients4.google.com
 goguardian.com
 panther.goguardian.com
 x3-predictor.goguardian.com
+screenshots.goguardian.com
